@@ -6,10 +6,10 @@
    Instead of just sensational feeling, I want to gauge it with concrete reasons and my hope is the DOs increases over time and would turn to a good 'on-boarding' experience for anyone want (or have to) learn Ruby. 
    
 # My (computer language) values and principles 
-Fail early 
-Fail safe 
-Self-explanotary
-No (at least few) surprise
-One approach for one thing
-Syntax over convention
+- Fail early
+- Fail safe 
+- Self-explanotary
+- No (at least few) surprise
+- One approach for one thing
+- Syntax over convention
 
